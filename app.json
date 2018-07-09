@@ -1,6 +1,5 @@
 {
   "name": "Kani Kani Panic",
   "description": "Salesforce女子部#19 tiny Kani game",
-  "repository": "https://github.com/tabesfdc/KaniKaniPanic",
-  "success_url": "/game.html"
+  "repository": "https://github.com/tabesfdc/KaniKaniPanic"
 }
